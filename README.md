@@ -15,6 +15,7 @@
 </div>
 
 ###
+<div align="center">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo"  />
@@ -27,8 +28,6 @@
 </div>
 
 ### 
-
-<div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=wwwazz333" height="300" alt="languages graph"  />
 </div>
